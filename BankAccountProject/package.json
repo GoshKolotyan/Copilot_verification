@@ -1,0 +1,17 @@
+{
+  "name": "bank-account-project",
+  "version": "1.0.0",
+  "description": "A simple bank account simulation",
+  "main": "program.js",
+  "scripts": {
+    "start": "node program.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
